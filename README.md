@@ -6,8 +6,9 @@ Once the game server is ready, players are automatically transferred into the ga
 If you use this for your project please credit me!
 Created by [Cynx](CynxDeveloper)
 
-You need to figure it out how to add the gs part!
-Im to lazy to leak that too!
+The GameServer For This matchmaker u js gotta change the ips 
+https://gofile.io/d/MpC5h3
+
 
 Please Star The Repo!
 
